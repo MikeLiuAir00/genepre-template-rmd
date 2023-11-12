@@ -1,0 +1,4 @@
+^renv$
+^renv\.lock$
+^template\.rmd\.genepre\.Rproj$
+^\.Rproj\.user$
